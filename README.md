@@ -2,6 +2,8 @@
 Tottenham Hotspurs analysis season 2009 - 2021
 
 ## Introduction
+![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/ae16953f-a9bb-4366-b623-067fe56d7ef4)
+
 Tottenham Hotspur, known as Spurs, is a renowned football club from North London, England. Over the period from 2009 to 2021, 
 they experienced a mix of successes and challenges in the English Premier League. Led by star players like Harry Kane, Son Heung-min, Christian Eriksen 
 they displayed thrilling attacking football under managers like Mauricio Pochettino. Tottenham achieved top-four finishes and notable runs in the UEFA Champions League. 
