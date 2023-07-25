@@ -75,7 +75,7 @@ decade. They also increased the number of goals scored by 19% after signing with
 - The three worst seasons have the three worst clean sheets records.
 
 ## Win-Loss-Draw Comparing Half Time
-## Win the Game After Won at Half Time
+### Win the Game After Won at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/7ecfd66b-629f-4874-9219-9c5ba1df8bda)
 #### The Number of Goals Scored by Tottenham at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/e6df4d17-299a-4e4a-8947-6466c9aaf8b5)
@@ -83,14 +83,14 @@ decade. They also increased the number of goals scored by 19% after signing with
 - When Tottenham wons the first have, the victory came in 31% of the time.
 - They score 2 goals almost half as many times as they score 1 goal in the first half.
 
-## Win the Game After Draw at Half Time
+### Win the Game After Draw at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/f1d3b3c5-8fce-4d9b-b211-01899914be16)
 #### The Number of Goals Scored by Tottenham at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/ee3d4450-53fc-4927-948b-5e02b794c36e)
 
 - When they are drawn at half time, they win only 17.76% of the time.
 
-## Win the Game After Lose at Half Time
+### Win the Game After Lose at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/107897a8-8ccb-41c3-8dcd-f85f4678b742)
 #### The Number of Goals Scored by Tottenham at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/c334dcf5-0bf0-49c3-a1c0-bb1a4c105f2f)
