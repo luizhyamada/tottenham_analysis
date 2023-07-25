@@ -1,6 +1,18 @@
 # tottenham_analysis
 Tottenham Hotspurs analysis season 2009 - 2021
 
+The following technologies were used to carry out the project:
+- Python: Used for data cleaning.
+- Postgres (PostgreSQL): Used to perform the process of extracting the desired information.
+- Metabase: Used for data visualization. 
+
+
+
+
+
+
+
+
 ## Introduction
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/ae16953f-a9bb-4366-b623-067fe56d7ef4)
 
