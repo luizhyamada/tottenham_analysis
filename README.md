@@ -40,9 +40,9 @@ have cemented Tottenham's position as a significant force in English football.
 
 - The 2016/17 season was the best season for Tottenham in the last decade. They finished in second place with 86 points.
 - The 2015/16 season was key to achieving that success. Mauricio Pochettino was in his second season at the club, and new players were signed, such as Trippier, Alderweireld, and Son.
-- The The 2020/21 season was the worst in the last decade. The team's performance was so poor that they sacked Jose Mourinho in April 2021.
-- The The 2015/16, 2016/17, and 2017/18 seasons were the top three seasons for the team.
-- The The 2019/20, 2020/21 (under the management of Jose Mourinho), and the 2010/11 seasons were the top three worst seasons for the team.
+- The 2020/21 season was the worst in the last decade. The team's performance was so poor that they sacked Jose Mourinho in April 2021.
+- The 2015/16, 2016/17, and 2017/18 seasons were the top three seasons for the team.
+- The 2019/20, 2020/21 (under the management of Jose Mourinho), and the 2010/11 seasons were the top three worst seasons for the team.
 
 ## Goals Score and Wins
 ### Goals Scored x Conceded
@@ -92,7 +92,7 @@ decade. They also increased the number of goals scored by 19% after signing with
 #### The Number of Goals Scored by Tottenham at Half Time
 ![image](https://github.com/luizhyamada/tottenham_analysis/assets/57925185/e6df4d17-299a-4e4a-8947-6466c9aaf8b5)
 
-- When Tottenham wons the first have, the victory came in 31% of the time.
+- When Tottenham wons the first half, the victory came in 31% of the time.
 - They score 2 goals almost half as many times as they score 1 goal in the first half.
 
 ### Win the Game After Draw at Half Time
